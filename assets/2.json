@@ -1,0 +1,23 @@
+{
+    "name": "San Francisco Victorian House",
+    "symbol": "SFVH",
+    "image": "2.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "2.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "94wJoTS8jhvkesix5aPPT6P7FxowCnfZJ1m9Eqpz3H5",
+          "share": 100
+        }
+      ]
+    },
+    "collection": {
+      "name": "LineArtDoodles X NFT",
+      "family": "LineArtDoodles"
+   }
+  }
